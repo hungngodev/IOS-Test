@@ -32,22 +32,27 @@ Some ideas to improve the app are:
 
 ## App Brainstorming
 
-Favorite Apps & Features
-	1.	Spotify
-	•	Smart recommendations based on listening history
-	•	Seamless offline playback
-	2.	Notion
-	•	Customizable templates for different workflows
-	•	Real-time collaboration with team members
-	3.	Google Maps
-	•	Live traffic updates and alternative route suggestions
-	•	Offline navigation for areas with limited connectivity
-	4.	Duolingo
-	•	Gamified learning experience with streak rewards
-	•	Personalized lesson adjustments based on progress
-	5.	Instagram
-	•	Interactive stories with polls and Q&A features
-	•	Save and organize posts into collections
+# Favorite Apps & Features  
+
+1. **Spotify**  
+   - Smart recommendations based on listening history  
+   - Seamless offline playback  
+
+2. **Notion**  
+   - Customizable templates for different workflows  
+   - Real-time collaboration with team members  
+
+3. **Google Maps**  
+   - Live traffic updates and alternative route suggestions  
+   - Offline navigation for areas with limited connectivity  
+
+4. **Duolingo**  
+   - Gamified learning experience with streak rewards  
+   - Personalized lesson adjustments based on progress  
+
+5. **Instagram**  
+   - Interactive stories with polls and Q&A features  
+   - Save and organize posts into collections  
 
 App Idea: Flutter-Based Food Social Media App
 
